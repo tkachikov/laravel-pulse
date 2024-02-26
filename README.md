@@ -4,6 +4,8 @@
 
 This package for setting commands in schedule.
 
+DEPRECATED! MOVED TO: https://github.com/tkachikov/chronos
+
 ## Installation
 
 Require this package with composer using the following command
